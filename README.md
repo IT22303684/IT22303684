@@ -4,7 +4,7 @@
 
 <p>Welcome to my GitHub profile! I am currently on a journey of exploration and discovery, driven by a passion for crafting innovative solutions. I am an undergraduate at SLIIT in Malabe. Here, you will find a collection of my projects that reflect my curiosity and experimentation across various domains, including web development, Java programming, and more.</p>
 
-🚀 About Me
+<h2>🚀 About Me</h2>
 <hr></hr>
 🔭 Current Focus: Delving into different aspects of technology and its applications <br/>
 🎓 Education: Dedicated learner at SLIIT, Year 2  <br/>
