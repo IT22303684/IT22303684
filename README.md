@@ -18,15 +18,15 @@
 <ul>
   <li>
     <strong> <b> <h3>TV Show Recommendation App </h3> </b></strong> Developed a React application that recommends TV shows based on user searches. Utilized APIs and React Hooks to create a dynamic user experience. The site is live on Vercel. </br>
-    website Link - https://my-react-tv-show-adviser-blush.vercel.app/
+    <p>Website Link: <a href="https://my-react-tv-show-adviser-blush.vercel.app/" target="_blank" rel="noopener noreferrer">my-react-tv-show-adviser-blush.vercel.app</a></p>
   </li>
   <li>
     <strong> <b> <h3>Waste Management System (ecoRecycle) </h3> </b></strong> Created a comprehensive web-based application using the MERN stack. This system streamlines waste management processes and is live on Render.<br>
-    website Link - https://waste-management-ecorecycle.onrender.com/
+    <p>Website Link: <a href="https://waste-management-ecorecycle.onrender.com/" target="_blank" rel="noopener noreferrer">waste-management-ecorecycle.onrender.com</a></p>
   </li>
    <li>
     <strong> <b> <h3>Music Festival Website </h3> </b></strong> Developed a frontend project using Tailwind CSS for a music festival website. Focused on responsive design and user experience.<br>
-    website Link - https://music-festival--zeta.vercel.app/
+    <p>Website Link: <a href="https://music-festival--zeta.vercel.app/" target="_blank" rel="noopener noreferrer">music-festival--zeta.vercel.app</a></p>
   </li>
   <li>
     <strong> <b> <h3>Online School Information Management System</h3> </b></strong> Developed as a 2nd Year 1st Semester OOP project using MVC architecture with JSP and Servlets. This system manages school information efficiently.<br>
