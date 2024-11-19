@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dasun Tharuka</h1>
+<h1 align="center"> 👋 Hi , I'm Dasun Tharuka</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22303684&label=Profile%20views&color=0e75b6&style=flat" alt="it22303684" /> </p>
 
+<p>Welcome to my GitHub profile! I am currently on a journey of exploration and discovery, driven by a passion for crafting innovative solutions. I am an undergraduate at SLIIT in Malabe. Here, you will find a collection of my projects that reflect my curiosity and experimentation across various domains, including web development, Java programming, and more.</p>
+
+🚀 About Me
+<hr></hr>
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Java**
