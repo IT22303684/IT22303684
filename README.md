@@ -11,9 +11,7 @@
 </ul>
 <h1 align="left">🌐 Connect with Me</h1>
 <p align="left">
-  <ul> 
-    <li>LinkedIn: linkedin.com/in/dasun-tharuka-9327a3245</li>
-  </ul>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/dasun-tharuka-9327a3245" target="_blank">linkedin.com/in/dasun-tharuka-9327a3245</a></li>
     
 </p>
 <h1 align="left">💼 Experience and Contributions</h1>
