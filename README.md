@@ -1,19 +1,17 @@
 <h1 align="center"> 👋 Hi , I'm Dasun Tharuka</h1>
-<hr></hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22303684&label=Profile%20views&color=0e75b6&style=flat" alt="it22303684" /> </p>
 <p>Welcome to my GitHub profile! I am currently on a journey of exploration and discovery, driven by a passion for crafting innovative solutions. I am an undergraduate at SLIIT in Malabe. Here, you will find a collection of my projects that reflect my curiosity and experimentation across various domains, including web development, Java programming, and more.</p>
 
-<h1>🚀 About Me</h1>
-<hr></hr>
-🔭 Current Focus: Delving into different aspects of technology and its applications <br/>
-🎓 Education: Dedicated learner at SLIIT, Year 2  <br/>
-🌱 Learning: Continuously exploring new skills and knowledge to shape my path  <br/>
-💬 Ask me about: C, C++, PHP, Java, Kotlin, Python, R, React, Servlets, MySQL, mongoDB, HTML, CSS, JavaScript, TypeScript, MERN Stack and MVC architecture  <br/>
-
-<hr></hr>
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">🚀 About Me</h1>
+<ul>
+<li>🔭 Current Focus: Delving into different aspects of technology and its applications</li> 
+<li>🎓 Education: Dedicated learner at SLIIT, Year 2 </li>  
+<li>🌱 Learning: Continuously exploring new skills and knowledge to shape my path </li> 
+<li>💬 Ask me about: C, C++, PHP, Java, Kotlin, Python, R, React, Servlets, MySQL, mongoDB, HTML, CSS, JavaScript, TypeScript, MERN Stack and MVC architecture </li> 
+</ul>
+<h1 align="left">🌐 Connect with Me</h1>
 <p align="left">
+  LinkedIn: linkedin.com/in/dasun-tharuka-9327a3245
 <a href="https://linkedin.com/in/dasun-tharuka-9327a3245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasun-tharuka-9327a3245" height="30" width="40" /></a>
 </p>
 
