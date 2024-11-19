@@ -6,10 +6,10 @@
 
 🚀 About Me
 <hr></hr>
-🔭 Current Focus: Delving into different aspects of technology and its applications
-🎓 Education: Dedicated learner at SLIIT, Year 2
-🌱 Learning: Continuously exploring new skills and knowledge to shape my path
-💬 Ask me about: C, C++, PHP, Java, Kotlin, Python, R, React, Servlets, MySQL, mongoDB, HTML, CSS, JavaScript, TypeScript, MERN Stack and MVC architecture
+🔭 Current Focus: Delving into different aspects of technology and its applications <br/>
+🎓 Education: Dedicated learner at SLIIT, Year 2  <br/>
+🌱 Learning: Continuously exploring new skills and knowledge to shape my path  <br/>
+💬 Ask me about: C, C++, PHP, Java, Kotlin, Python, R, React, Servlets, MySQL, mongoDB, HTML, CSS, JavaScript, TypeScript, MERN Stack and MVC architecture  <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
