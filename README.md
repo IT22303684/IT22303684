@@ -20,6 +20,7 @@
     <strong> <b> <h3>TV Show Recommendation App </h3> </b></strong> Developed a React application that recommends TV shows based on user searches. Utilized APIs and React Hooks to create a dynamic user experience. The site is live on Vercel. </br>
     <p>Website Link: <a href="https://my-react-tv-show-adviser-blush.vercel.app/" target="_blank" rel="noopener noreferrer">my-react-tv-show-adviser-blush.vercel.app</a></p>
   </li>
+  <li> <h3><strong>React Note Manager</strong></h3> Developed a React application for team-based note management, providing a centralized platform for real-time collaboration. Integrated Redux for state management and Firebase for a reliable backend to enable seamless updates. The app ensures a smooth and dynamic user experience. <br /> <p>Website Link: <a href="https://react-notes-manager-osfh-psi.vercel.app/" target="_blank" rel="noopener noreferrer">https://react-notes-manager-osfh-psi.vercel.app/</a></p> </li>
   <li>
     <strong> <b> <h3>Waste Management System (ecoRecycle) </h3> </b></strong> Created a comprehensive web-based application using the MERN stack. This system streamlines waste management processes and is live on Render.<br>
     <p>Website Link: <a href="https://waste-management-ecorecycle.onrender.com/" target="_blank" rel="noopener noreferrer">waste-management-ecorecycle.onrender.com</a></p>
